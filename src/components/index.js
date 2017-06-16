@@ -1,4 +1,4 @@
-import ImageDetail from './imageDetail';
-import DetailScreen from './screens/detailScreen';
+import ImageDetailScreen from './screens/imageDetailScreen';
+import NewsLandingScreen from './screens/newsLandingScreen';
 
-export { ImageDetail, DetailScreen };
+export { ImageDetailScreen, NewsLandingScreen };

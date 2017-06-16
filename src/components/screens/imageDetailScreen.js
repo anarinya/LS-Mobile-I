@@ -12,7 +12,7 @@ const loadingImg = {
 const windowWidth = Dimensions.get('window').width;
 const windowHeight = Dimensions.get('window').height;
 
-class DetailScreen extends Component {
+class ImageDetailScreen extends Component {
   onButtonPress() {
     return () => { return null };
   }
@@ -143,4 +143,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default DetailScreen;
+export default ImageDetailScreen;
